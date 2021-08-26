@@ -1,34 +1,36 @@
 const help = (prefix) => {
 	return `
--╦╤─  *Uzi Bot*  -╦╤─ 
+「 *May Bot* 」
 
-「 Hello ${pushname} This is my main menu
-  ✓ Prefixo: ${prefix} 」
+「 Olá ${pushname}
+  ❏ Prefixo: ${prefix} 」
 
 「 MENUS 」
-  ✓ ${prefix}about
-     ➥ Para mais informações
-  ✓ ${prefix}flix
-     ➥ Sugestões de filmes e séries de todas as categorias
-  ✓ ${prefix}biblioteca
-     ➥ Menu de livros em arquivo .pdf
-  ✓ ${prefix}adms
-     ➥ Menu para ADM
-  ✓ ${prefix}maker
-     ➥ Comandos de imagem com texto
-  ✓ ${prefix}music
-     ➥ Menu de música
-  ✓ ${prefix}fga
-     ➥ Menu de stickers
-  ✓ ${prefix}entretenimento
-     ➥ Meio óbvio XD
-  ✓ ${prefix}consultas
-     ➥ Menu de dados fake
-  ✓ ${prefix}credits
-     ➥ Pessoas que me ajudaram
+  ❏ ${prefix}about
+   ➰ Para mais informações
+  ❏ ${prefix}produtos
+   ➰ Para saber de valores
+  ❏ ${prefix}flix
+   ➰ Sugestões de filmes e séries
+  ❏ ${prefix}biblioteca
+   ➰ O nome já fala
+  ❏ ${prefix}adms
+   ➰ Comandos
+  ❏ ${prefix}maker
+   ➰ Comandos
+  ❏ ${prefix}music
+   ➰ Comandos
+  ❏ ${prefix}fga
+   ➰ Comandos
+  ❏ ${prefix}entretenimento
+   ➰ Comandos
+  ❏ ${prefix}consultas
+   ➰ Comandos
+  ❏ ${prefix}credits
+   ➰ O nome já fala
 
-⭐ ${pushname} Se precisar de suporte:  ⭐
-  ⭐  ✓ Número do criador: wa.me/+351927438657 ⭐`
+「 ${pushname} qualquer bug:
+  ❏ SAC: wa.me/+5511930758170 」`
 }
 
 exports.help = help
